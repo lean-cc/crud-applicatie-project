@@ -9,11 +9,11 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#Installation">Installation</a> •
-  <a href="#how-to-use">How to use</a>
+  <a href="#how-to-use">How to use</a> •
   <a href="#credits">Credits</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/horizoncollege/Fieldlab/main/assets/screenshot.png?token=GHSAT0AAAAAACTTJGFEAWDPYBNYAUPAV32EZUFCHAA)
+![image](https://github.com/lean-cc/crud-applicatie-project/assets/114680621/50bc04a1-6c77-44ce-ab32-77d6fd316325)
 
 ## Features:
 * create an account
